@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme Bismark, desenvolvedor Full Stack em progresso!
+## Olá eu sou o Guilherme Bismark!
 
 - 📚 Estudando HTML, CSS e Javascript
 
